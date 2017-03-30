@@ -1,5 +1,7 @@
 # IDEAL #
 
+<p align="center">
+<img src="https://github.com/dani-lbnl/IDEAL/blob/master/IDEAL_logo.png"> </p>
 This is a public repository for IDEAL apps, which are software tools for understanding Image across Domains, Experiments, Algorithms ad Learning.
 
 ### What is this repository for? ###
