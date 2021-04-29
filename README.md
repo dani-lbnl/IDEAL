@@ -3,13 +3,13 @@
 These are software tools for understanding Image across Domains, Experiments, Algorithms ad Learning. This is a public repository for IDEAL apps that have been cleared for release. [[MORE]](http://vis.lbl.gov/~daniela)
 
 ### 2021
-* Silvia Miramontes
-* Laura Nichols
-* Jerome Quenum
-* Ramya Ramesh
-* Kenny Higa, Ph.D.
+* Silvia Miramontes [[research]](https://github.com/s-miramontes/SULI-Spring2019/) [[news]](https://cs.lbl.gov/news-media/news/2020/silvia-miramontes-merging-applied-math-and-machine-learning-for-science/)
+* Laura Nichols [[research]](https://sites.google.com/lbl.gov/ideal/people)
+* Jerome Quenum [[research]](https://sites.google.com/lbl.gov/ideal/people)
+* Ramya Ramesh [[research]](https://sites.google.com/lbl.gov/ideal/people)
+* Kenny Higa, Ph.D. 
 * Robbie Sadre, M.Sc.
-* Rakshya Sharma
+* Rakshya Sharma [[research]](https://sites.google.com/lbl.gov/ideal/people)
 
 ### Previous years
 * [Research projects](https://sites.google.com/lbl.gov/ideal/projects?authuser=0)
