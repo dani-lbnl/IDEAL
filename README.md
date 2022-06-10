@@ -2,6 +2,8 @@
 
 These are software tools for understanding Image across Domains, Experiments, Algorithms ad Learning. This is a public repository for IDEAL apps that have been cleared for release. [[MORE]](http://vis.lbl.gov/~daniela)
 
+Want to learn more about Computer vision? [[CLICK HERE]](https://github.com/dani-lbnl/introvision)
+
 ### 2021
 * Silvia Miramontes [[research]](https://github.com/s-miramontes/SULI-Spring2019/) [[news]](https://cs.lbl.gov/news-media/news/2020/silvia-miramontes-merging-applied-math-and-machine-learning-for-science/)
 * Laura Nichols [[research]](https://sites.google.com/lbl.gov/ideal/team)
