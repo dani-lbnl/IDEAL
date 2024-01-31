@@ -23,7 +23,7 @@ Want to learn more about Computer vision? [[CLICK HERE]](https://github.com/dani
 
 ### Previous years
 * [Research projects](https://sites.google.com/lbl.gov/ideal/projects?authuser=0)
-
+* [t](https://docs.google.com/document/d/1NsaWqumxXxl4VZvoXSP1QjIkUhNaWvFB9gEvtJmVs5o/edit?usp=sharing)
 ### How does it work? ###
 
 * Inspecting images
