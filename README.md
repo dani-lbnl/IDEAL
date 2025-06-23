@@ -6,11 +6,12 @@ Want to learn more about Computer vision? [[CLICK HERE]](https://github.com/dani
 
 ### Active team members
 * Ron Pandolfi [[research]](https://crd.lbl.gov/divisions/amcr/mathematics-dept/software-design-for-experimental-science/people/ronald-pandolfi/)
-* Eric Chagnon [[research]](https://crd.lbl.gov/divisions/amcr/mathematics-dept/math-for-experimental-data-analysis/people-of-math-for-experimental-data-analysis-group/eric-chagnon/)
 * Zineb Sordo [[research]](https://crd.lbl.gov/divisions/amcr/mathematics-dept/math-for-experimental-data-analysis/people-of-math-for-experimental-data-analysis-group/zineb/)
+* Maher Aleghani
 * Silvia Miramontes [[research]](https://github.com/s-miramontes/SULI-Spring2019/) [[news]](https://cs.lbl.gov/news-media/news/2020/silvia-miramontes-merging-applied-math-and-machine-learning-for-science/)
 
 ### Alumni (the past 3 years)
+* Eric Chagnon [[research]](https://crd.lbl.gov/divisions/amcr/mathematics-dept/math-for-experimental-data-analysis/people-of-math-for-experimental-data-analysis-group/eric-chagnon/)
 * Kate Johnson [[research]](https://twitter.com/dani_lbnl/status/1651443047169945601?s=20)
 * Mya Soe [[research]](https://www.lbl.gov/research/scientists-of-tomorrow/)
 * Lylybell Teran [[research]](https://www.lbl.gov/research/scientists-of-tomorrow/)
